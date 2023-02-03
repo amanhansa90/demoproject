@@ -1,0 +1,7 @@
+.navdecorate{
+    position: sticky;
+    top: 0;
+    margin-bottom : 100%;
+    background-color: fuchsia;
+    width: 100%;
+}
